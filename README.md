@@ -19,3 +19,6 @@ Una vez ejecutado, nos pedirá el márgen de beneficio que queremos en cada oper
 El bot funcionrá mientras tengamos saldo.
 Para su correcto funcionamiento, necesitamos tener saldo de USDT y de BTC, y ninguna operacion abierta en el par USDT_BTC. 
 Si hay 2 o más operaciones abiertas, esperará a que se cierren. Si hay una, la cerrará.
+
+Evidentemente, para que el bot funcione, se necesita tenerlo siempre funcionando y una conexión a internet.
+Los datos los consulta cada 5 minutos, por lo que no consume ancho de banda.
