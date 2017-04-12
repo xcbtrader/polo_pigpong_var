@@ -2,6 +2,7 @@
 Poloniex, Bot para autotrader en USDT_BTC
 Este Bot está preparado para trabajar en Python 2.7. No funciona en Python 3.6 o superior
 Utilizarlo bajo vuestra responsabilidad !!!!
+
 No me hago responsable de posibles fallos, pérdidas o operaciones incorrectas que pueda realizar el Bot
 
 Para instalarlo, antes hay que instalarse las librerias de Poloniex del siguiente link:
